@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/usealba/.github/main/alba-logo.png" height="32px">
-
----
+<img src="https://raw.githubusercontent.com/usealba/.github/main/profile/alba-banner.png" alt="Alba Banner">
 
 ## Experimenting with independence.
 
