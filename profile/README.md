@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/usealba/.github/main/alba-logo.png" height="32px">
+
+---
+
 ## Experimenting with independence.
 
 ✨ **Alba is an experiment.** ✨
